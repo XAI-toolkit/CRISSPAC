@@ -1,0 +1,186 @@
+﻿/* aligning select text to select boxes */
+/*.control-label{
+        display: table-cell; 
+        text-align: right; 
+        vertical-align: middle; 
+        padding-right:10px;
+} 
+.selectize-control{ 
+        display: table-cell; 
+        text-align: left; 
+        vertical-align: middle; 
+        width:180px;
+        padding-bottom:10px;
+} 
+.form-group { 
+        display: table-row;
+        
+}*/
+/* change color of tabpanels */
+
+
+.nav-tabs-custom > .nav-tabs > li > a {
+          /* background-color: #367fa9;*/
+          background-color:#002b36 ;
+           color: #FFF;
+        }
+.nav-tabs-custom {
+       background-color: #FFF; 
+}
+/*aligning text */
+
+.nav {
+background-color:#002b36 ;
+           color: #FFF;
+}
+
+pre {
+    white-space: pre-wrap;       /* Since CSS 2.1 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+.main-header .logo {
+  font-family: "Georgia", tahoma, "Times New Roman", serif;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.content {
+  overflow-y: auto;
+}
+
+ .skin-blue .main-sidebar {
+        background-color: #002b36;
+		outline-color: red;
+
+      }
+.skin-blue .sidebar-menu>li.active>a, .skin-blue .sidebar-menu>li:hover>a {
+        background-color: #002b36;
+		outline-color: red;
+}		
+	  
+	  
+ .content-wrapper,
+ .right-side {
+  background-color:#002b36;
+  border-top-color:#FFF;
+}  
+
+
+
+.body {
+background-color: #002b36;
+color: #FFF;
+}
+
+.box-body {
+background-color: #002b36;
+color: #FFF;
+}
+
+.info-box{
+background-color: #002b36;
+color: #FFF;
+}
+
+
+/*.dataTables_wrapper {
+background-color: #FFF;
+} */
+
+.btn-primary {
+background-color: #f39c12;
+border-color: #f39c12;
+}
+
+/* for tables */
+table.dataTable tbody tr{
+background-color:#002b36}
+
+table.dataTable tbody th, table.dataTable tbody td {
+background-color:#002b36;
+color:#FFF;
+}
+
+thead {
+
+background-color:#cb4b16; 
+color:#FFF;
+} 
+
+label {
+color: #FFF;
+
+}
+
+button, input, select, textarea {
+color:#000;
+
+}
+
+
+
+.dataTables_wrapper .dataTables_paginate .paginate_button{box-sizing:border-box;display:inline-block;min-width:1.5em;padding:0.5em 1em;margin-left:2px;text-align:center;text-decoration:none !important;cursor:pointer;*cursor:hand;color:#FFF !important;border:1px solid transparent;border-radius:2px}
+
+.dataTables_wrapper .dataTables_length, .dataTables_wrapper .dataTables_filter, .dataTables_wrapper .dataTables_info, .dataTables_wrapper .dataTables_processing, .dataTables_wrapper .dataTables_paginate {
+color: #FFF;
+}
+
+/* for Home panel */
+
+.well {
+background-color: #002b36;
+color: #FFF;
+}
+
+.multi-wrapper  {
+background-color: #002b36;
+color: #FFF;
+}
+
+.multi-wrapper .selected-wrapper {
+background-color: #002b36;
+color: #FFF;
+}
+
+.multi-wrapper .non-selected-wrapper {
+background-color: #002b36;
+}
+
+.multi-wrapper .search-input {
+background-color: #002b36;
+}
+
+a {
+color: #337ab7;
+text-decoration: none;
+}
+
+.form-group {
+background-color: #002b36;
+color: #FFF;
+}
+.multi-wrapper .item {
+background-color: #002b36;
+color: #FFF;
+}
+
+.skin-red .main-header .navbar .nav>li>a {
+background-color: #002b36;
+}
+
+.skin-red .main-header .navbar {
+background-color: #002b36;
+}
+
+.help-block {
+display: block;
+margin-top: 5px;
+margin-bottom: 10px;
+color: #FFF;
+}
+
+
+
