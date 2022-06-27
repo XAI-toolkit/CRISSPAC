@@ -69,17 +69,17 @@ Mittas, N., Chatzopoulou, F., Kyritsis, K. A., Papagiannopoulos, C. I., Theodoro
 | --- | --- | --- | --- | --- |
 | History | HYPERTENSION | History of hypertension | Categorical | No/Yes |
 | History | DIABETES MELLITUS | History of diabetes mellitus | Categorical | No/Yes |
-| DYSLIPIDAEMIA | History of dyslipidaemia | Categorical | No/Yes |
-| (+) FAMILY HISTORY | Positive (+) family history of CAD | Categorical | No/Yes |
-| SMOKING | History of smoking | Categorical | No/Yes |
-| PREVIOUS STROKE | Previous stroke | Categorical | No/Yes |
-| CHRONIC KIDNEY FAILURE | History of chronic kidney disease | Categorical | No/Yes |
-| PERIPHERAL VASCULAR DISEASE | History of peripheral vascular disease | Categorical | No/Yes |
-| AORTIC ANEURYSMS | History of aortic aneurysms | Categorical | No/Yes |
-| CHRONIC PULMONARY OBSTRUCTIVE DISEASE | History of chronic pulmonary obstructive disease | Categorical | No/Yes |
-| AUTOIMMUNE DISEASE | History of any autoimmune disease | Categorical | No/Yes |
-| ATRIAL FIBRILLATION | History of atrial fibrillation | Categorical | No/Yes |
-| AGE | Age of patient (in years) | Numeric | - |
+| History | DYSLIPIDAEMIA | History of dyslipidaemia | Categorical | No/Yes |
+| History | (+) FAMILY HISTORY | Positive (+) family history of CAD | Categorical | No/Yes |
+| History | SMOKING | History of smoking | Categorical | No/Yes |
+| History | PREVIOUS STROKE | Previous stroke | Categorical | No/Yes |
+| History | CHRONIC KIDNEY FAILURE | History of chronic kidney disease | Categorical | No/Yes |
+| History | PERIPHERAL VASCULAR DISEASE | History of peripheral vascular disease | Categorical | No/Yes |
+| History | AORTIC ANEURYSMS | History of aortic aneurysms | Categorical | No/Yes |
+| History | CHRONIC PULMONARY OBSTRUCTIVE DISEASE | History of chronic pulmonary obstructive disease | Categorical | No/Yes |
+| History | AUTOIMMUNE DISEASE | History of any autoimmune disease | Categorical | No/Yes |
+| History | ATRIAL FIBRILLATION | History of atrial fibrillation | Categorical | No/Yes |
+| History | AGE | Age of patient (in years) | Numeric | - |
 | Entry | CHEST PAIN | Chest pain | Categorical | No/Yes |
 | DYSPNEA | Dyspnea | Categorical | No/Yes |
 | EASY FATIGUE | Easy fatigue | Categorical | No/Yes |
