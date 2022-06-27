@@ -93,49 +93,49 @@ Mittas, N., Chatzopoulou, F., Kyritsis, K. A., Papagiannopoulos, C. I., Theodoro
 | Entry | GRACE SCORE | Grace score | Categorical | No/Yes |
 | Entry | QRS DURATION ms | Body mass index (kg/m2) | Numeric | - |
 | Biochemical | GFR | Glomerular filtration rate by CKD-EPI (mL/min/1.73m2) | Numeric | - |
-| Biochemical| GLU | Glucose (mg/dL) | Numeric | - |
-| Biochemical| UREA | Urea (mg/dL) | Numeric | - |
-| Biochemical| CREATININE | Creatinine (mg/dL) | Numeric | - |
-| Biochemical| URIC ACID | Uric acid (mg/dL) | Numeric | - |
-| Biochemical| CHOL | Total cholesterol (mg/dL) | Numeric | - |
-| Biochemical| TG | Triglycerides (mg/dL) | Numeric | - |
-| Biochemical| HDL | High density lipoprotein cholesterol (mg/dL) | Numeric | - |
-| Biochemical| LDL | Low density lipoprotein cholesterol (mg/dL) | Numeric | - |
-| Biochemical| TNT-HS | High sensitivity cardiac troponin (ng/L) | Numeric | - |
-| Biochemical| SGOT | Aspartate aminotransferase (units/L) | Numeric | - |
-| Biochemical| SGPT | Alanine aminotransferase (units/L) | Numeric | - |
-| Biochemical| LDH | Lactic acid dehydrogenase (units/L) | Numeric | - |
-| Biochemical| CPK | Creatine phosphokinase (units/L) | Numeric | - |
-| Biochemical| NA | Sodium (mEq/L) | Numeric | - |
-| Biochemical| K | Potassium (mmol/L) | Numeric | - |
-| Biochemical| INR | International normalized ratio | Numeric | - |
+| Biochemical | GLU | Glucose (mg/dL) | Numeric | - |
+| Biochemical | UREA | Urea (mg/dL) | Numeric | - |
+| Biochemical | CREATININE | Creatinine (mg/dL) | Numeric | - |
+| Biochemical | URIC ACID | Uric acid (mg/dL) | Numeric | - |
+| Biochemical | CHOL | Total cholesterol (mg/dL) | Numeric | - |
+| Biochemical | TG | Triglycerides (mg/dL) | Numeric | - |
+| Biochemical | HDL | High density lipoprotein cholesterol (mg/dL) | Numeric | - |
+| Biochemical | LDL | Low density lipoprotein cholesterol (mg/dL) | Numeric | - |
+| Biochemical | TNT-HS | High sensitivity cardiac troponin (ng/L) | Numeric | - |
+| Biochemical | SGOT | Aspartate aminotransferase (units/L) | Numeric | - |
+| Biochemical | SGPT | Alanine aminotransferase (units/L) | Numeric | - |
+| Biochemical | LDH | Lactic acid dehydrogenase (units/L) | Numeric | - |
+| Biochemical | CPK | Creatine phosphokinase (units/L) | Numeric | - |
+| Biochemical | NA | Sodium (mEq/L) | Numeric | - |
+| Biochemical | K | Potassium (mmol/L) | Numeric | - |
+| Biochemical | INR | International normalized ratio | Numeric | - |
 | Complete Blood Count | WBC | White blood cells (\*1000) | Numeric | - |
-| NEU% | Neutrophils percentage | Numeric | - |
-| LYM% | Lymphocytes percentage | Numeric | - |
-| MONO% | Monocytes percentage | Numeric | - |
-| EOS% | Eosinophils percentage | Numeric | - |
-| BASO% | Basophils percentage | Numeric | - |
-| RBC | Red blood cells (\*1000000) | Numeric | - |
-| HGB | Hemoglobin (g/dL) | Numeric | - |
-| HCT | Hematocrit percentage | Numeric | - |
-| MCV | Mean corpuscular volume (fl) | Numeric | - |
-| MCH | Mean corpuscular hemoglobin (pg) | Numeric | - |
-| MCHC | Mean corpuscular hemoglobin concentration (g/dL) | Numeric | - |
-| RDW-CV | Red blood cell distribution width- coefficient of variation (percentage) | Numeric | - |
-| RDW-SD | Red blood cell distribution width- standard deviation (percentage) | Numeric | - |
-| PLT | Platelets (1000) | Numeric | - |
-| MPV | Mean platelet volume (fl) | Numeric | - |
-| PDW | Platelet distribution width (percentage) | Numeric | - |
-| PCT | Plateletcrit (percentage) | Numeric | - |
-| P-LCR | Platelet-large cell ratio | Numeric | - |
+| Complete Blood Count | NEU% | Neutrophils percentage | Numeric | - |
+| Complete Blood Count | LYM% | Lymphocytes percentage | Numeric | - |
+| Complete Blood Count | MONO% | Monocytes percentage | Numeric | - |
+| Complete Blood Count | EOS% | Eosinophils percentage | Numeric | - |
+| Complete Blood Count | BASO% | Basophils percentage | Numeric | - |
+| Complete Blood Count | RBC | Red blood cells (\*1000000) | Numeric | - |
+| Complete Blood Count | HGB | Hemoglobin (g/dL) | Numeric | - |
+| Complete Blood Count | HCT | Hematocrit percentage | Numeric | - |
+| Complete Blood Count | MCV | Mean corpuscular volume (fl) | Numeric | - |
+| Complete Blood Count | MCH | Mean corpuscular hemoglobin (pg) | Numeric | - |
+| Complete Blood Count | MCHC | Mean corpuscular hemoglobin concentration (g/dL) | Numeric | - |
+| Complete Blood Count | RDW-CV | Red blood cell distribution width- coefficient of variation (percentage) | Numeric | - |
+| Complete Blood Count | RDW-SD | Red blood cell distribution width- standard deviation (percentage) | Numeric | - |
+| Complete Blood Count | PLT | Platelets (1000) | Numeric | - |
+| Complete Blood Count | MPV | Mean platelet volume (fl) | Numeric | - |
+| Complete Blood Count | PDW | Platelet distribution width (percentage) | Numeric | - |
+| Complete Blood Count | PCT | Plateletcrit (percentage) | Numeric | - |
+| Complete Blood Count | P-LCR | Platelet-large cell ratio | Numeric | - |
 | Differential | ACS | Acute coronary syndrome | Categorical | No/Yes |
-| NSTEMI | Non-ST-elevated myocardial infarction | Categorical | No/Yes |
-| STEMI | ST-elevated myocardial infraction | Categorical | No/Yes |
-| UNSTABLE ANGINA | Unstable angina | Categorical | No/Yes |
-| STABLE ANGINA | Stable angina | Categorical | No/Yes |
-| SPECT | Pathological single-photon emission computerized tomography results | Categorical | No/Yes |
-| CCTA | Pathological coronary computed tomography angiography results | Categorical | No/Yes |
-| THORACIC PAIN | Thoracic pain | Categorical | No/Yes |
-| CHRONIC CORONARY SYNDROME | Chronic coronary syndrome | Categorical | No/Yes |
-| AORTIC VALVE STENOSIS | Severe aortic stenosis | Categorical | No/Yes |
-| HEART FAILURE | Heart failure | Categorical | No/Yes |
+| Differential | NSTEMI | Non-ST-elevated myocardial infarction | Categorical | No/Yes |
+| Differential | STEMI | ST-elevated myocardial infraction | Categorical | No/Yes |
+| Differential | UNSTABLE ANGINA | Unstable angina | Categorical | No/Yes |
+| Differential | STABLE ANGINA | Stable angina | Categorical | No/Yes |
+| Differential | SPECT | Pathological single-photon emission computerized tomography results | Categorical | No/Yes |
+| Differential | CCTA | Pathological coronary computed tomography angiography results | Categorical | No/Yes |
+| Differential | THORACIC PAIN | Thoracic pain | Categorical | No/Yes |
+| Differential | CHRONIC CORONARY SYNDROME | Chronic coronary syndrome | Categorical | No/Yes |
+| Differential | AORTIC VALVE STENOSIS | Severe aortic stenosis | Categorical | No/Yes |
+| Differential | HEART FAILURE | Heart failure | Categorical | No/Yes |
