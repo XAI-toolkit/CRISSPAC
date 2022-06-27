@@ -15,9 +15,6 @@ The aim of the software is two-fold:
 
 Our envision is to promote software extensibility and utilization towards accurate diagnosis, decision-making processes and personalized patient management and counselling activities.
 
-# Architecture
-![This is an image]
-
 
 # Installation
 
