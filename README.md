@@ -81,34 +81,34 @@ Mittas, N., Chatzopoulou, F., Kyritsis, K. A., Papagiannopoulos, C. I., Theodoro
 | History | ATRIAL FIBRILLATION | History of atrial fibrillation | Categorical | No/Yes |
 | History | AGE | Age of patient (in years) | Numeric | - |
 | Entry | CHEST PAIN | Chest pain | Categorical | No/Yes |
-| DYSPNEA | Dyspnea | Categorical | No/Yes |
-| EASY FATIGUE | Easy fatigue | Categorical | No/Yes |
-| ST-T CHANGES | ST-T changes | Categorical | No/Yes |
-| Q wave in ECG | Q wave on the electrocardiogram | Categorical | No/Yes |
-| BMI | Body mass index (kg/m2) | Numeric | - |
-| BPM | Beats per minute (heart rate) | Numeric | - |
-| SAP | Systolic arterial pressure (SAP) (mmHg) | Numeric | - |
-| DAP | Diastolic arterial pressure (DAP) (mmHg) | Numeric | - |
-| CRUSADE SCORE | Crusade score | Categorical | No/Yes |
-| GRACE SCORE | Grace score | Categorical | No/Yes |
-| QRS DURATION ms | Body mass index (kg/m2) | Numeric | - |
+| Entry | DYSPNEA | Dyspnea | Categorical | No/Yes |
+| Entry | EASY FATIGUE | Easy fatigue | Categorical | No/Yes |
+| Entry | ST-T CHANGES | ST-T changes | Categorical | No/Yes |
+| Entry | Q wave in ECG | Q wave on the electrocardiogram | Categorical | No/Yes |
+| Entry | BMI | Body mass index (kg/m2) | Numeric | - |
+| Entry | BPM | Beats per minute (heart rate) | Numeric | - |
+| Entry | SAP | Systolic arterial pressure (SAP) (mmHg) | Numeric | - |
+| Entry | DAP | Diastolic arterial pressure (DAP) (mmHg) | Numeric | - |
+| Entry | CRUSADE SCORE | Crusade score | Categorical | No/Yes |
+| Entry | GRACE SCORE | Grace score | Categorical | No/Yes |
+| Entry | QRS DURATION ms | Body mass index (kg/m2) | Numeric | - |
 | Biochemical | GFR | Glomerular filtration rate by CKD-EPI (mL/min/1.73m2) | Numeric | - |
-| GLU | Glucose (mg/dL) | Numeric | - |
-| UREA | Urea (mg/dL) | Numeric | - |
-| CREATININE | Creatinine (mg/dL) | Numeric | - |
-| URIC ACID | Uric acid (mg/dL) | Numeric | - |
-| CHOL | Total cholesterol (mg/dL) | Numeric | - |
-| TG | Triglycerides (mg/dL) | Numeric | - |
-| HDL | High density lipoprotein cholesterol (mg/dL) | Numeric | - |
-| LDL | Low density lipoprotein cholesterol (mg/dL) | Numeric | - |
-| TNT-HS | High sensitivity cardiac troponin (ng/L) | Numeric | - |
-| SGOT | Aspartate aminotransferase (units/L) | Numeric | - |
-| SGPT | Alanine aminotransferase (units/L) | Numeric | - |
-| LDH | Lactic acid dehydrogenase (units/L) | Numeric | - |
-| CPK | Creatine phosphokinase (units/L) | Numeric | - |
-| NA | Sodium (mEq/L) | Numeric | - |
-| K | Potassium (mmol/L) | Numeric | - |
-| INR | International normalized ratio | Numeric | - |
+| Biochemical| GLU | Glucose (mg/dL) | Numeric | - |
+| Biochemical| UREA | Urea (mg/dL) | Numeric | - |
+| Biochemical| CREATININE | Creatinine (mg/dL) | Numeric | - |
+| Biochemical| URIC ACID | Uric acid (mg/dL) | Numeric | - |
+| Biochemical| CHOL | Total cholesterol (mg/dL) | Numeric | - |
+| Biochemical| TG | Triglycerides (mg/dL) | Numeric | - |
+| Biochemical| HDL | High density lipoprotein cholesterol (mg/dL) | Numeric | - |
+| Biochemical| LDL | Low density lipoprotein cholesterol (mg/dL) | Numeric | - |
+| Biochemical| TNT-HS | High sensitivity cardiac troponin (ng/L) | Numeric | - |
+| Biochemical| SGOT | Aspartate aminotransferase (units/L) | Numeric | - |
+| Biochemical| SGPT | Alanine aminotransferase (units/L) | Numeric | - |
+| Biochemical| LDH | Lactic acid dehydrogenase (units/L) | Numeric | - |
+| Biochemical| CPK | Creatine phosphokinase (units/L) | Numeric | - |
+| Biochemical| NA | Sodium (mEq/L) | Numeric | - |
+| Biochemical| K | Potassium (mmol/L) | Numeric | - |
+| Biochemical| INR | International normalized ratio | Numeric | - |
 | Complete Blood Count | WBC | White blood cells (\*1000) | Numeric | - |
 | NEU% | Neutrophils percentage | Numeric | - |
 | LYM% | Lymphocytes percentage | Numeric | - |
