@@ -68,7 +68,7 @@ Mittas, N., Chatzopoulou, F., Kyritsis, K. A., Papagiannopoulos, C. I., Theodoro
 | Electronic Health Record | Risk factor | Description | Type | Levels |
 | --- | --- | --- | --- | --- |
 | History | HYPERTENSION | History of hypertension | Categorical | No/Yes |
-| DIABETES MELLITUS | History of diabetes mellitus | Categorical | No/Yes |
+| History | DIABETES MELLITUS | History of diabetes mellitus | Categorical | No/Yes |
 | DYSLIPIDAEMIA | History of dyslipidaemia | Categorical | No/Yes |
 | (+) FAMILY HISTORY | Positive (+) family history of CAD | Categorical | No/Yes |
 | SMOKING | History of smoking | Categorical | No/Yes |
