@@ -4,17 +4,7 @@ Coronary artery disease RIsk-stratification Syntax Score Predictive Algorithm Ca
 
 # Description
 
-CRISSPAC is an open-source web-based platform for the prediction of the Syntax Score and the severity of Coronary Artery Disease (CAD) providing a variety of data analytics and machine learning solutions presented via an-easy-to-use graphical interface environment. The development of CRISSPAC is based on a data-driven framework proposed by Mittas et al. (2021).
-
-The full paper can be found here [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8804295/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8804295/)
-
-The aim of the software is two-fold:
-
-- to facilitate both retrospective and prospective objectives dedicated to the diagnosis of the complexity of CAD;
-- to support open science principles through the public availability of the source code.
-
-Our envision is to promote software extensibility and utilization towards accurate diagnosis, decision-making processes and personalized patient management and counselling activities.
-
+CRISSPAC: Coronary artery disease RIsk-stratification Syntax Score Predictive Algorithm Calculator  
 
 # Installation
 
@@ -50,7 +40,8 @@ List of required R packages (with their dependencies)
 
 # Input
 
-The primary data sources are the Electronic Health Records (EHRs) collected during the GESS study (GESS trial, ClinicalTrials.gov Identifier: NCT03150680) after appropriate anonymization of personal information. More specifically, five types of EHRs (History, Entry, Biochemical, Complete Blood Count and Differential) related to seventy-two measured risk factors are stored into XLSX files constituting the main input of the platform. The full list of the input variables along with their short descriptions can be found in Appendix.
+CRISSPAC uses the Electronic Health Records (EHRs) collected during the GESS study (GESS trial, ClinicalTrials.gov Identifier: NCT03150680). 
+Regarding this, five types of EHRs (see Appendix) with seventy-two measured risk factors are the main input of the platform. 
 
 # Usage
 
