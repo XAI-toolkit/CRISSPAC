@@ -1,0 +1,5 @@
+site_name: CRISSPAC
+repo_url: https://github.com/XAI-toolkit/CRISSPAC
+
+nav:
+  - CRISSPAC: 'index.md'
